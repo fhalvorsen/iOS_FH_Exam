@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C78550B6-96E9-458D-8DAA-F69FB8722A06"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06743E48-84D7-4CE5-90F7-9861B1F2DA96"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Opus/ViewControllers/Top50AlbumsMasterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "sendAlbumsToVc()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C96C678B-1FD8-406C-8D95-1B2B8342B11A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Opus/ViewControllers/Top50AlbumsMasterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C96C678B-1FD8-406C-8D95-1B2B8342B11A - bc7107b59c7e006b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Array&lt;Opus.TopAlbum&gt;&gt;) -&gt; () in closure #1 () -&gt; () in Opus.Top50AlbumsMasterViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Opus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christophermarchand/Documents/Westerdals_Kristiania/Year_thr33/iOS/PG5600Exam/Opus/Opus/ViewControllers/Top50AlbumsMasterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "350">
+               </Location>
+               <Location
+                  uuid = "C96C678B-1FD8-406C-8D95-1B2B8342B11A - 9074d2af1657a16c"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Opus.TopAlbum) -&gt; Opus.TopAlbum in closure #1 (Swift.Optional&lt;Swift.Array&lt;Opus.TopAlbum&gt;&gt;) -&gt; () in closure #1 () -&gt; () in Opus.Top50AlbumsMasterViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Opus"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/christophermarchand/Documents/Westerdals_Kristiania/Year_thr33/iOS/PG5600Exam/Opus/Opus/ViewControllers/Top50AlbumsMasterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "22E92DAC-6FDA-4CC5-8753-860AC2D3B161"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Opus/ViewControllers/Top50AlbumsMasterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
